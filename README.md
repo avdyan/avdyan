@@ -5,6 +5,12 @@
   - 💞️ I’m looking to collaborate with other users or a organization.<br/>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,md,py,git,html,js,css,vim,vscode,bash" />
+  </a>
+</p>
+
 
 <!-- <h1 align="center">Welcome! 👋</h1> -->
 
@@ -12,7 +18,7 @@ ___
   
 <div align="center">
  
-<img src="https://github-readme-stats.vercel.app/api?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=ovadev&show_icons=true&locale=en&hide=contribs" alt="ovadev" align="center">
+<img src="https://github-readme-stats.vercel.app/api?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=andres2004u&show_icons=true&locale=en&hide=contribs" alt="andres2004u" align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=ovadev&layout=compact" align="center" alt="lang"> -->
  
  ___
