@@ -18,6 +18,7 @@ jobs:
         with:
           USERNAME: 'ovadev' # Hashnode Username
           COUNT: 6
+          FILE: "README.md"
           STYLE: "blog-right"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
