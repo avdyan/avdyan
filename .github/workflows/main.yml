@@ -19,6 +19,7 @@ jobs:
           USERNAME: 'ovadev' # Hashnode Username
           COUNT: 6
           FILE: "README.md"
+          BLOG_URL: "https://blog.vibescode.cyou/"
           STYLE: "blog-right"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
