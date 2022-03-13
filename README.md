@@ -21,7 +21,7 @@ ___
 <img src="https://github-readme-stats.vercel.app/api?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=andres2004u&show_icons=true&locale=en&hide=contribs" alt="andres2004u" align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=ovadev&layout=compact" align="center" alt="lang"> -->
  
- ___
+___
  
 <!-- Repositorios Anclados -->
 <!-- </div>
@@ -33,4 +33,3 @@ ___
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimoomedits&repo=bspwm-first-rice&bg_color=12131c&border_color=00000000&text_color=afcee0&icon_color=afcee0&title_color=b5e8e0)](https://github.com/saimoomedits/bspwm-first-rice" alt="pin" align="center" >
 
 </div> -->
-___
