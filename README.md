@@ -13,7 +13,9 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=andres2004u&style=flat-square&color=blue" alt=""/>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E8CDLRA)
+  
+  <!-- <img src="https://komarev.com/ghpvc/?username=andres2004u&style=flat-square&color=blue" alt=""/>-->
 
   <h1>What's Up! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
