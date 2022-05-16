@@ -17,14 +17,14 @@
   
   <!-- <img src="https://komarev.com/ghpvc/?username=andres2004u&style=flat-square&color=blue" alt=""/>-->
 
-  <h1>What's Up! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<!--  <h1>What's Up! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-___
+___ -->
 
 <div align="center">
 
@@ -75,3 +75,7 @@ ___
 <!-- BLOG-POST-LIST:START -->
 - [10 Repositorios Que Todo Desarrollador Debe Saber](https://blog.vibescode.cyou/2022/02/10-repositorios-github-que-todo.html)
 <!-- BLOG-POST-LIST:END -->
+  
+___
+  
+<!--START_SECTION:activity-->
