@@ -79,3 +79,5 @@ ___
 ___
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/bedimcode/responsive-mini-portfolio/issues/2) in [bedimcode/responsive-mini-portfolio](https://github.com/bedimcode/responsive-mini-portfolio)
+<!--END_SECTION:activity-->
