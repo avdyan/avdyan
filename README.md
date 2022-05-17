@@ -31,10 +31,10 @@ ___ -->
 ### :man_technologist: About Me :
 
   <p align="center">
-    - 👋 Hi, I’m Andrés <br/>
-    - 👀 I’m interested in Web Development <br/>
-    - 🌱 I’m currently learning VueJs <br/>
-    - 💞️ I’m looking to collaborate with other users or a organization.<br/>
+    Hi, I’m Andrés <br/>
+    I’m interested in Web Development <br/>
+    I’m currently learning VueJs <br/>
+    I’m looking to collaborate with other users or a organization.<br/>
   </p>
 
   <p align="center">
@@ -58,6 +58,7 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=andres2004u&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andres2004u&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ___
  
 <!-- Repositorios Anclados -->
@@ -70,7 +71,10 @@ ___
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimoomedits&repo=bspwm-first-rice&bg_color=12131c&border_color=00000000&text_color=afcee0&icon_color=afcee0&title_color=b5e8e0)](https://github.com/saimoomedits/bspwm-first-rice" alt="pin" align="center" >
 
 </div> -->
-  
+
+### 📝 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [10 Repositorios Que Todo Desarrollador Debe Saber](https://blog.vibescode.cyou/2022/02/10-repositorios-github-que-todo.html)
