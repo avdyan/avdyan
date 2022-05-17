@@ -1,14 +1,17 @@
 <div id="header" align="center">
+  
+<!--  [![Andrés Ujpán, Hello people! Check my repositories, happy trip.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Hello%20people%21%20Check%20my%20repositories%2C%20happy%20trip.&title=Andr%C3%A9s%20Ujp%C3%A1n)](https://pimp-my-readme.webapp.io)-->
+  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="your-youtube-URL">
+    <a href="https://t.me/andres2004u">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://instagram.com/andres2004u">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://twitter.com/andres2004u">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -36,7 +39,9 @@ ___ -->
     I’m currently learning VueJs <br/>
     I’m looking to collaborate with other users or a organization.<br/>
   </p>
-
+  
+  <!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=andres2004u&data=followers,repositories,stars,commits)](https://vibescode.cyou)-->
+  
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linux,md,py,git,html,js,css,vim,vscode,bash" />
