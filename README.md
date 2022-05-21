@@ -82,6 +82,7 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Top 3 Distros Linux Que Debes Probar](https://www.cachecuantico.com/2022/05/top-3-distros-linux-que-debes-probar.html)
 - [10 Repositorios Que Todo Desarrollador Debe Saber](https://www.cachecuantico.com/2022/05/blog-post_17.html)
 <!-- BLOG-POST-LIST:END -->
   
