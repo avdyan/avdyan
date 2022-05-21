@@ -82,7 +82,7 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [10 Repositorios Que Todo Desarrollador Debe Saber](https://blog.vibescode.cyou/2022/02/10-repositorios-github-que-todo.html)
+- [10 Repositorios Que Todo Desarrollador Debe Saber](https://www.cachecuantico.com/2022/05/blog-post_17.html)
 <!-- BLOG-POST-LIST:END -->
   
 ___
