@@ -59,11 +59,11 @@ ___
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=12131c&icon_color=afcee0&title_color=d1d1d1&text_color=d1d1d1&border_color=00000000&username=ovadev&layout=compact" align="center" alt="lang"> -->
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andres2004u&theme=dark&background=0C0E14)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andres2004u&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=andres2004u&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=andres2004u&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andres2004u&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andres2004u&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ___
  
 <!-- Repositorios Anclados -->
