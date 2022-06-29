@@ -82,6 +82,7 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Recursos Para Programadores Y Diseñadores](https://www.cachecuantico.com/2022/06/recursos-programadores.html)
 - [Gato - La IA Que Lo Aprende Todo](https://www.cachecuantico.com/2022/06/sistema-gato-de-deepmind-introduccion.html)
 - [Top 3 Distros Linux Que Debes Probar](https://www.cachecuantico.com/2022/05/top-3-distros-linux-que-debes-probar.html)
 - [10 Repositorios Que Todo Desarrollador Debe Saber](https://www.cachecuantico.com/2022/05/blog-post_17.html)
