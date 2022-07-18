@@ -82,6 +82,7 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Page Speed &amp; Optimización Web](https://www.cachecuantico.com/2022/07/page-speed-optimizacion-web.html)
 - [Famosas Paradojas Físicas](https://www.cachecuantico.com/2022/07/famosas-paradojas-fisicas.html)
 - [Recursos Para Programadores Y Diseñadores](https://www.cachecuantico.com/2022/06/recursos-programadores.html)
 - [Gato - La IA Que Lo Aprende Todo](https://www.cachecuantico.com/2022/06/sistema-gato-de-deepmind-introduccion.html)
