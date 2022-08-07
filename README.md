@@ -91,9 +91,3 @@ ___
 - [Top 3 Distros Linux Que Debes Probar](https://www.cachecuantico.com/2022/05/top-3-distros-linux-que-debes-probar.html)
 - [10 Repositorios Que Todo Desarrollador Debe Saber](https://www.cachecuantico.com/2022/05/top-repositorios-github.html)
 <!-- BLOG-POST-LIST:END -->
-  
-___
-### ⚔️ Github Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/catppuccin/fish/issues/1) in [catppuccin/fish](https://github.com/catppuccin/fish)
-<!--END_SECTION:activity-->
