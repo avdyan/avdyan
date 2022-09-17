@@ -61,9 +61,9 @@ ___
 ### :fire: My Stats :
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a04u&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=a04u&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=andres04u&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a04u&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andres04u&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ___
  
 <!-- Repositorios Anclados -->
