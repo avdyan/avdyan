@@ -82,6 +82,7 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo los fuegos artificiales tienen colores?](https://www.cachecuantico.com/2022/12/fuegos-artificiales.html)
 - [¿Cómo se diseña un automóvil? En 8 pasos](https://www.cachecuantico.com/2022/10/como-se-disena-un-auto.html)
 - [Crear un Portfolio Web con tus repositorios de GitHub &lpar;Fácil y Rápido&rpar;](https://www.cachecuantico.com/2022/09/crear-un-portfolio-web.html)
 - [Ejemplo de la Velocidad de la Luz](https://www.cachecuantico.com/2022/07/velocidad-de-la-luz-ejemplo.html)
@@ -91,5 +92,4 @@ ___
 - [Recursos Para Programadores Y Diseñadores](https://www.cachecuantico.com/2022/06/recursos-programadores.html)
 - [Gato - La IA Que Lo Aprende Todo](https://www.cachecuantico.com/2022/06/sistema-gato-de-deepmind-introduccion.html)
 - [Top 3 Distros Linux Que Debes Probar](https://www.cachecuantico.com/2022/05/top-3-distros-linux-que-debes-probar.html)
-- [10 Repositorios Que Todo Desarrollador Debe Saber](https://www.cachecuantico.com/2022/05/top-repositorios-github.html)
 <!-- BLOG-POST-LIST:END -->
