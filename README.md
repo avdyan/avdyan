@@ -85,11 +85,11 @@ ___
 - [¿Qué es la computación cuántica?](https://www.cachecuantico.com/2022/12/computacion-cuantica.html)
 - [¿Cómo los fuegos artificiales tienen colores?](https://www.cachecuantico.com/2022/12/fuegos-artificiales.html)
 - [¿Cómo se diseña un automóvil? En 8 pasos](https://www.cachecuantico.com/2022/10/como-se-disena-un-auto.html)
+- [Mejores extensiones para tu navegador](https://www.cachecuantico.com/2022/10/mejores-extensiones-para-tu-navegador.html)
 - [Crear un Portfolio Web con tus repositorios de GitHub &lpar;Fácil y Rápido&rpar;](https://www.cachecuantico.com/2022/09/crear-un-portfolio-web.html)
 - [Ejemplo de la Velocidad de la Luz](https://www.cachecuantico.com/2022/07/velocidad-de-la-luz-ejemplo.html)
 - [Marie Curie en 3 minutos](https://www.cachecuantico.com/2022/07/marie-curie-historia.html)
 - [Page Speed &amp; Optimización Web](https://www.cachecuantico.com/2022/07/page-speed-optimizacion-web.html)
 - [Famosas Paradojas Físicas](https://www.cachecuantico.com/2022/07/famosas-paradojas-fisicas.html)
 - [Recursos Para Programadores Y Diseñadores](https://www.cachecuantico.com/2022/06/recursos-programadores.html)
-- [Gato - La IA Que Lo Aprende Todo](https://www.cachecuantico.com/2022/06/sistema-gato-de-deepmind-introduccion.html)
 <!-- BLOG-POST-LIST:END -->
