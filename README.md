@@ -69,6 +69,7 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Instalar programas en Arch Linux o derivados &lpar;Compilado, binario, yay, helper, etc&rpar;](https://www.cachecuantico.com/2023/01/instalar-programas-en-arch-linux.html)
 - [¿Qué es la computación cuántica?](https://www.cachecuantico.com/2022/12/computacion-cuantica.html)
 - [¿Cómo los fuegos artificiales tienen colores?](https://www.cachecuantico.com/2022/12/fuegos-artificiales.html)
 - [¿Cómo se diseña un automóvil? En 8 pasos](https://www.cachecuantico.com/2022/10/como-se-disena-un-auto.html)
@@ -78,5 +79,4 @@ ___
 - [Marie Curie en 3 minutos](https://www.cachecuantico.com/2022/07/marie-curie-historia.html)
 - [Page Speed &amp; Optimización Web](https://www.cachecuantico.com/2022/07/page-speed-optimizacion-web.html)
 - [Famosas Paradojas Físicas](https://www.cachecuantico.com/2022/07/famosas-paradojas-fisicas.html)
-- [Recursos Para Programadores Y Diseñadores](https://www.cachecuantico.com/2022/06/recursos-programadores.html)
 <!-- BLOG-POST-LIST:END -->
