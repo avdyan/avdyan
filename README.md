@@ -69,6 +69,7 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [7 Distros &quot;Rolling Release&quot; Que Te Encantarán](https://www.cachecuantico.com/2023/03/distros-rolling-release.html)
 - [Instalar programas en Arch Linux o derivados &lpar;Compilado, binario, yay, helper, etc&rpar;](https://www.cachecuantico.com/2023/01/instalar-programas-en-arch-linux.html)
 - [¿Qué es la computación cuántica?](https://www.cachecuantico.com/2022/12/computacion-cuantica.html)
 - [¿Cómo los fuegos artificiales tienen colores?](https://www.cachecuantico.com/2022/12/fuegos-artificiales.html)
@@ -78,5 +79,4 @@ ___
 - [Ejemplo de la Velocidad de la Luz](https://www.cachecuantico.com/2022/07/velocidad-de-la-luz-ejemplo.html)
 - [Marie Curie en 3 minutos](https://www.cachecuantico.com/2022/07/marie-curie-historia.html)
 - [Page Speed &amp; Optimización Web](https://www.cachecuantico.com/2022/07/page-speed-optimizacion-web.html)
-- [Famosas Paradojas Físicas](https://www.cachecuantico.com/2022/07/famosas-paradojas-fisicas.html)
 <!-- BLOG-POST-LIST:END -->
