@@ -69,14 +69,14 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [7 Distros &quot;Rolling Release&quot; Que Te Encantarán](https://cachecuantico.blogspot.com/2023/03/distros-rolling-release.html)
-- [Instalar programas en Arch Linux o derivados &lpar;Compilado, binario, yay, helper, etc&rpar;](https://cachecuantico.blogspot.com/2023/01/instalar-programas-en-arch-linux.html)
-- [¿Qué es la computación cuántica?](https://cachecuantico.blogspot.com/2022/12/computacion-cuantica.html)
-- [¿Cómo los fuegos artificiales tienen colores?](https://cachecuantico.blogspot.com/2022/12/fuegos-artificiales.html)
-- [¿Cómo se diseña un automóvil? En 8 pasos](https://cachecuantico.blogspot.com/2022/10/como-se-disena-un-auto.html)
-- [Mejores extensiones para tu navegador](https://cachecuantico.blogspot.com/2022/10/mejores-extensiones-para-tu-navegador.html)
-- [Crear un Portfolio Web con tus repositorios de GitHub &lpar;Fácil y Rápido&rpar;](https://cachecuantico.blogspot.com/2022/09/crear-un-portfolio-web.html)
-- [Ejemplo de la Velocidad de la Luz](https://cachecuantico.blogspot.com/2022/07/velocidad-de-la-luz-ejemplo.html)
-- [Marie Curie en 3 minutos](https://cachecuantico.blogspot.com/2022/07/marie-curie-historia.html)
-- [Page Speed &amp; Optimización Web](https://cachecuantico.blogspot.com/2022/07/page-speed-optimizacion-web.html)
+- [Las mejores distribuciones Linux tipo rolling release &lpar;actualización continua&rpar;](https://avdyan.github.io/blog/posts/rolling-release-linux.html)
+- [Cómo instalar paquetes en Arch Linux fácilmente](https://avdyan.github.io/blog/posts/instalar-paquetes-arch.html)
+- [¿Qué es la computación cuántica y por qué es importante?](https://avdyan.github.io/blog/posts/computacion-cuantica.html)
+- [¿Qué sales dan color a los fuegos artificiales?](https://avdyan.github.io/blog/posts/fuegos-artificiales.html)
+- [Top extensiones para navegadores que todo techie debería probar](https://avdyan.github.io/blog/posts/mejores-extensiones.html)
+- [Cómo crear un portfolio con GitHub Pages](https://avdyan.github.io/blog/posts/crear-portafolio-web.html)
+- [¿Cómo se diseña un coche? El paso a paso del diseño automotriz](https://avdyan.github.io/blog/posts/diseno-automotriz.html)
+- [La velocidad de la luz y lo que observamos](https://avdyan.github.io/blog/posts/velocidad-de-la-luz.html)
+- [Marie Curie: La leyenda que ganó 2 premios Nobel](https://avdyan.github.io/blog/posts/marie-curie-en-3-minutos.html)
+- [Optimiza la Velocidad de tu Web: Tutorial con WebP y PageSpeed](https://avdyan.github.io/blog/posts/pagespeed-y-optimizacion-web.html)
 <!-- BLOG-POST-LIST:END -->
