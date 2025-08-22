@@ -69,14 +69,14 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Las mejores distribuciones Linux tipo rolling release &lpar;actualización continua&rpar;](https://avdyan.github.io/blog/posts/rolling-release-linux.html)
-- [Cómo instalar paquetes en Arch Linux fácilmente](https://avdyan.github.io/blog/posts/instalar-paquetes-arch.html)
-- [¿Qué es la computación cuántica y por qué es importante?](https://avdyan.github.io/blog/posts/computacion-cuantica.html)
-- [¿Qué sales dan color a los fuegos artificiales?](https://avdyan.github.io/blog/posts/fuegos-artificiales.html)
-- [Top extensiones para navegadores que todo techie debería probar](https://avdyan.github.io/blog/posts/mejores-extensiones.html)
-- [Cómo crear un portfolio con GitHub Pages](https://avdyan.github.io/blog/posts/crear-portafolio-web.html)
-- [¿Cómo se diseña un coche? El paso a paso del diseño automotriz](https://avdyan.github.io/blog/posts/diseno-automotriz.html)
-- [La velocidad de la luz y lo que observamos](https://avdyan.github.io/blog/posts/velocidad-de-la-luz.html)
-- [Marie Curie: La leyenda que ganó 2 premios Nobel](https://avdyan.github.io/blog/posts/marie-curie-en-3-minutos.html)
-- [Optimiza la Velocidad de tu Web: Tutorial con WebP y PageSpeed](https://avdyan.github.io/blog/posts/pagespeed-y-optimizacion-web.html)
+- [Las mejores distribuciones Linux tipo rolling release &lpar;actualización continua&rpar;](https://unbitmas.com/posts/rolling-release-linux)
+- [Cómo instalar paquetes en Arch Linux fácilmente](https://unbitmas.com/posts/instalar-paquetes-arch)
+- [¿Qué es la computación cuántica y por qué es importante?](https://unbitmas.com/posts/computacion-cuantica)
+- [¿Qué sales dan color a los fuegos artificiales?](https://unbitmas.com/posts/fuegos-artificiales)
+- [Top extensiones para navegadores que todo techie debería probar](https://unbitmas.com/posts/mejores-extensiones)
+- [Cómo crear un portfolio con GitHub Pages](https://unbitmas.com/posts/crear-portafolio-web)
+- [¿Cómo se diseña un coche? El paso a paso del diseño automotriz](https://unbitmas.com/posts/diseno-automotriz)
+- [La velocidad de la luz y lo que observamos](https://unbitmas.com/posts/velocidad-de-la-luz)
+- [Marie Curie: La leyenda que ganó 2 premios Nobel](https://unbitmas.com/posts/marie-curie-en-3-minutos)
+- [Optimiza la Velocidad de tu Web: Tutorial con WebP y PageSpeed](https://unbitmas.com/posts/pagespeed-y-optimizacion-web)
 <!-- BLOG-POST-LIST:END -->
