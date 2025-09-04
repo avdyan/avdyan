@@ -66,6 +66,21 @@ ___
 
 ### 📝 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+___
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/avdyan/avdyan/blob/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/avdyan/avdyan/blob/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://github.com/avdyan/avdyan/blob/github-breakout/images/breakout-light.svg" />
+</picture>
+
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
