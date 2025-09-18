@@ -84,6 +84,7 @@ ___
 ___
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Diagrama Interactivo de Colores CSS Nombrados](https://andressable.vercel.app/posts/diagrama-colores-css.html)
 - [Las mejores distribuciones Linux tipo rolling release &lpar;actualización continua&rpar;](https://andressable.vercel.app/posts/rolling-release-linux.html)
 - [Cómo instalar paquetes en Arch Linux fácilmente](https://andressable.vercel.app/posts/instalar-paquetes-arch.html)
 - [¿Qué es la computación cuántica y por qué es importante?](https://andressable.vercel.app/posts/computacion-cuantica.html)
@@ -93,5 +94,4 @@ ___
 - [¿Cómo se diseña un coche? El paso a paso del diseño automotriz](https://andressable.vercel.app/posts/diseno-automotriz.html)
 - [La velocidad de la luz y lo que observamos](https://andressable.vercel.app/posts/velocidad-de-la-luz.html)
 - [Marie Curie - La leyenda que ganó 2 premios Nobel](https://andressable.vercel.app/posts/marie-curie-en-3-minutos.html)
-- [Optimiza la Velocidad de tu Web - Tutorial con WebP y PageSpeed](https://andressable.vercel.app/posts/pagespeed-y-optimizacion-web.html)
 <!-- BLOG-POST-LIST:END -->
