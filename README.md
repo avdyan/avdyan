@@ -5,19 +5,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="https://t.me/andres04u">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="https://instagram.com/andres04u">
+    <a href="https://instagram.com/andressable">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://twitter.com/andres04u">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
-  
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E8CDLRA)
-  
+
   <!-- <img src="https://komarev.com/ghpvc/?username=andres2004u&style=flat-square&color=blue" alt=""/>-->
 
 <!--  <h1>What's Up! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
@@ -36,7 +28,6 @@ ___ -->
   <p align="center">
     Hi, I’m Andrés <br/>
     I’m interested in Web Development <br/>
-    I’m currently learning VueJs <br/>
     I’m looking to collaborate with other users or a organization.<br/>
   </p>
   
@@ -80,18 +71,3 @@ ___
   />
   <img alt="Breakout Game" src="https://github.com/avdyan/avdyan/blob/github-breakout/images/breakout-light.svg" />
 </picture>
-
-___
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [¿Qué Sucede Cuando &quot;La Mitad de Internet&quot; Cae? Lecciones de la Caída Crítica de AWS US-EAST-1](https://andressable.vercel.app/posts/caida-aws.html)
-- [Diagrama Interactivo de Colores CSS Nombrados](https://andressable.vercel.app/posts/diagrama-colores-css.html)
-- [Las mejores distribuciones Linux tipo rolling release &lpar;actualización continua&rpar;](https://andressable.vercel.app/posts/rolling-release-linux.html)
-- [Cómo instalar paquetes en Arch Linux fácilmente](https://andressable.vercel.app/posts/instalar-paquetes-arch.html)
-- [¿Qué es la computación cuántica y por qué es importante?](https://andressable.vercel.app/posts/computacion-cuantica.html)
-- [¿Qué sales dan color a los fuegos artificiales?](https://andressable.vercel.app/posts/fuegos-artificiales.html)
-- [Top extensiones para navegadores que todo techie debería probar](https://andressable.vercel.app/posts/mejores-extensiones.html)
-- [Cómo crear un portfolio con GitHub Pages](https://andressable.vercel.app/posts/crear-portafolio-web.html)
-- [¿Cómo se diseña un coche? El paso a paso del diseño automotriz](https://andressable.vercel.app/posts/diseno-automotriz.html)
-- [La velocidad de la luz y lo que observamos](https://andressable.vercel.app/posts/velocidad-de-la-luz.html)
-<!-- BLOG-POST-LIST:END -->
